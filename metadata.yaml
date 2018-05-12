@@ -1,0 +1,40 @@
+_repo: The-Warden-of-the-Plainsand-Other-Stories-of-Life-in-the-Canadian-North-west_36578
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Laughlin, J. E.
+    gutenberg_agent_id: '9795'
+    url: http://www.gutenberg.org/2009/agents/9795
+covers:
+- cover_type: archival
+  image_path: 36578-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: MacLean, John
+    aliases:
+    - McLean, John
+    - Old Gustavus
+    - Rustler, Robin
+    - Sing, Samson
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '26677'
+    url: http://www.gutenberg.org/2009/agents/26677
+description: ''
+gutenberg_issued: '2011-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Northwest, Canadian -- Fiction'
+tableOfContents: The warden of the plains -- Asokoa, the chief's daughter -- The sky
+  pilot -- The lone pine -- The writing stone -- Akspine -- Old Glad -- The spirit
+  guide -- Alahcasla -- The hidden treasure -- The white man's bride -- The coming
+  of Apauakas.
+title: The Warden of the Plains, and Other Stories of Life in the Canadian North-west
+url: http://www.gutenberg.org/ebooks/36578
